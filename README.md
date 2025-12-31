@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.ibb.co/9yYdKzX/github-banner.png" alt="GitHub Banner" />
+<img src="https://i.ibb.co.com/bRztnXJr/Futuristic-Digital-Banner-with-Neon-Highlights.png" alt="GitHub Banner" />
 
 # 👋 Hi, I'm Rashedul Islam Hridoy  
 ### 💻 Full-Stack Web Developer | CSE Student
