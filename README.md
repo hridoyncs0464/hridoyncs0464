@@ -1,16 +1,57 @@
-## Hi there 👋
+<!-- Banner -->
+<img src="https://i.ibb.co/9yYdKzX/github-banner.png" alt="GitHub Banner" />
 
-<!--
-**hridoyncs0464/hridoyncs0464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Rashedul Islam Hridoy  
+### 💻 Full-Stack Web Developer | CSE Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+Motivated Computer Science & Engineering student with a strong foundation in full-stack web development.  
+Experienced in building responsive, scalable, and user-focused web applications.  
+Passionate about clean code, modern technologies, and solving real-world problems through software.
+
+---
+
+## 🚀 Current Activities
+- 🌱 Exploring **Next.js** and modern React patterns  
+- 🛠 Building full-stack projects using **React, Node.js & MongoDB**  
+- 📚 Strengthening problem-solving and backend architecture skills  
+
+---
+
+## 🧰 Skills
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/rashedul-islam-hridoy/
+- 📧 Email: hridoyncs0464@gmail.com
+- 📞 Phone: +8801584018487  
+- 📍 Location: Nabinagar, Savar, Dhaka, Bangladesh
+
+---
+
+## 📊 GitHub Stats
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=hridoyncs0464&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hridoyncs0464&theme=tokyonight" />
+</p>
